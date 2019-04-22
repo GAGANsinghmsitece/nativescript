@@ -1,0 +1,2 @@
+# nativescript
+for debugging purpose
